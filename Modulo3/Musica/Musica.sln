@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musica.Api", "Musica.Api\Musica.Api.csproj", "{EDD61221-028A-4710-AE93-15CB5F29346A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musica.Domain", "Musica.Domain\Musica.Domain.csproj", "{1F9855B6-E39D-4BE7-B09E-802436B0C64D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musica.Infra", "Musica.Infra\Musica.Infra.csproj", "{9E88833D-0ABD-4107-8E26-4F1FD6E48799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musica.DI", "Musica.DI\Musica.DI.csproj", "{E1173206-56EE-4F68-80BA-1A258F407AB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDD61221-028A-4710-AE93-15CB5F29346A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD61221-028A-4710-AE93-15CB5F29346A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD61221-028A-4710-AE93-15CB5F29346A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD61221-028A-4710-AE93-15CB5F29346A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F9855B6-E39D-4BE7-B09E-802436B0C64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F9855B6-E39D-4BE7-B09E-802436B0C64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F9855B6-E39D-4BE7-B09E-802436B0C64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F9855B6-E39D-4BE7-B09E-802436B0C64D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E88833D-0ABD-4107-8E26-4F1FD6E48799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E88833D-0ABD-4107-8E26-4F1FD6E48799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E88833D-0ABD-4107-8E26-4F1FD6E48799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E88833D-0ABD-4107-8E26-4F1FD6E48799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1173206-56EE-4F68-80BA-1A258F407AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1173206-56EE-4F68-80BA-1A258F407AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1173206-56EE-4F68-80BA-1A258F407AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1173206-56EE-4F68-80BA-1A258F407AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

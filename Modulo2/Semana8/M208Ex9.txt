@@ -1,0 +1,2 @@
+Ex.9
+ALTER TABLE dbo.Cargos DROP COLUMN Cor_Favorida;

@@ -1,0 +1,1 @@
+SELECT nomeTipo AS 'Tipos de Movimentações' FROM movimentoTipo;

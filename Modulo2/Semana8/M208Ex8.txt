@@ -1,0 +1,6 @@
+
+Ex. 8 
+ALTER TABLE dbo.Cargos ADD Cor_Favorida varchar(200);
+UPDATE dbo.Cargos
+SET Cor_Favorida = 'Pink'
+WHERE id_cargo = 10;

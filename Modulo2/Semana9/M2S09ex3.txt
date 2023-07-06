@@ -1,0 +1,2 @@
+SELECT nomeCompleto AS 'Nome', FORMAT(dataNascimento,'d','pt-br') AS 'Data de Nascimento', DATEDIFF(YY, dataNascimento, GETDATE()) AS 'Idade' FROM cliente
+ORDER BY Idade DESC;

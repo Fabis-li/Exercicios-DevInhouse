@@ -1,0 +1,4 @@
+SELECT nomeTipo AS 'Tipo de movimentação', COUNT(tipo_id) AS 'Qtde Transações' FROM  movimento
+INNER JOIN movimentoTipo
+ON movimentoTipo.idMovimentoTipo = movimento.tipo_id
+GROUP BY movimentoTipo.nomeTipo;

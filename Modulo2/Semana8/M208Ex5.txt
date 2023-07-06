@@ -1,0 +1,18 @@
+Ex.5
+CREATE TABLE Empregados(
+	id_emp int PRIMARY KEY IDENTITY(1,1),
+	nome_emp varchar(200) NOT NULL,
+	endereco varchar(200) NOT NULL,
+	idade int NOT NULL
+);
+
+CREATE TABLE Cargos(
+	id_cargo int PRIMARY KEY IDENTITY(1,1),
+	nome_cargo varchar(200) NOT NULL,
+
+);
+
+CREATE TABLE Gestores(
+	id_gestor int PRIMARY KEY IDENTITY(1,1),
+	nome_gestor varchar(200) NOT NULL,
+);

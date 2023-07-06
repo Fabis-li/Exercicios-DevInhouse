@@ -1,0 +1,12 @@
+
+Ex. 10
+CREATE TABLE Carro(
+	idCarro int PRIMARY KEY IDENTITY(1,1),
+	cor_carro varchar(200) NOT NULL,
+	placa_carro varchar(200) NOT NULL,
+	modelo_carro varchar(200) NOT NULL,
+	ano_carro int,
+	valor_carro int
+);
+
+

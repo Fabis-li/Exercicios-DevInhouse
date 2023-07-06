@@ -1,0 +1,62 @@
+<div class="container w-25 mt-5 bg-primary text-dark bg-opacity-25">
+  <h2 class="p-3 fw-bold border-dark border-bottom">Registro de Matérias</h2>
+  <form [formGroup]="formRegsitroMateria" class="row g-3">
+    <div class="col-md-12">
+      <label for="nome" class="form-label fw-bold">Nome</label>
+      <input formControlName="nome" type="nome" class="form-control" id="nome">
+    </div>
+    <div class="col-md-12">
+      <label for="cargahoraria" class="form-label fw-bold">Carga Horária</label>
+      <input formControlName="cargahoraria" type="number" class="form-control" id="cargahoraria">
+    </div>
+    <div class="col-12">
+      <label for="escola" class="form-label fw-bold">Escola</label>
+      <input formControlName="escola" type="text" class="form-control" id="escola" >
+    </div>  
+    
+    <div class="col-md-12">
+      <label for="professor" class="form-label fw-bold">Professor(a)</label>
+      <select formControlName="professor" id="professor" class="form-select">
+        <option  disabled selected>Selecione um professor</option>
+        <option>Otávio</option>
+        <option>Vivian</option>
+        <option>Leandro</option>
+        <option>Cláudia</option>
+      </select>
+    </div>
+    <div>
+      <p class="fw-bold">Matéria é opcional</p>
+      <div class="form-check">
+        <input formControlName="materia" class="form-check-input " type="radio" name="flexRadioDefault" id="flexRadioDefault1" value="sim">
+        <label class="form-check-label" for="flexRadioDefault1">
+          sim
+        </label>
+      </div>
+      <div class="form-check">
+        <input formControlName="materia" class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" value="não">
+        <label class="form-check-label" for="flexRadioDefault2">
+          não
+        </label>
+      </div>
+    </div>
+
+    <div class="col-12">
+      <button 
+      type="submit" 
+      class="w-25 btn m-2" 
+      (click)="showForm()" 
+      [disabled]="formRegsitroMateria.invalid"
+      [ngClass]="{'btn-success' : formRegsitroMateria.valid, 'btn-light' : formRegsitroMateria.invalid}"
+      >
+      Enviar
+      </button>
+      <button
+      type="submit"
+      class="btn-danger w-50 btn m-2" 
+      (click)="resetForm()"      
+      >
+      Limpa Formulario
+      </button>
+    </div>
+  </form>
+</div>

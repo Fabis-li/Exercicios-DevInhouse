@@ -1,0 +1,5 @@
+SELECT  nomeCategoria AS 'Categoria Conta', COUNT(categoria_id) AS 'Qtde' FROM conta
+INNER JOIN categoria
+ON conta.categoria_id = categoria.idCategoria
+WHERE categoria.nomeCategoria = 'ouro'
+GROUP BY categoria.nomeCategoria;

@@ -1,0 +1,10 @@
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\rh\obj\Debug\net6.0\rh.csproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\rh\obj\Debug\net6.0\rh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\rh\obj\Debug\net6.0\rh.AssemblyInfoInputs.cache
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\rh\obj\Debug\net6.0\rh.AssemblyInfo.cs
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\rh\obj\Debug\net6.0\rh.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\rh\obj\Debug\net6.0\rh.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\rh\obj\Debug\net6.0\rh.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\rh\obj\Debug\net6.0\rh.dll
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\rh\obj\Debug\net6.0\refint\rh.dll
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\rh\obj\Debug\net6.0\rh.pdb

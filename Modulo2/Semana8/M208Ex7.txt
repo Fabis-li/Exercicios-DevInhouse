@@ -1,0 +1,4 @@
+Ex.7 Adicinando a coluna setor
+ALTER TABLE dbo.Cargos ADD Setor varchar(200);
+UPDATE dbo.Cargos
+SET Setor = 'Financeiro';

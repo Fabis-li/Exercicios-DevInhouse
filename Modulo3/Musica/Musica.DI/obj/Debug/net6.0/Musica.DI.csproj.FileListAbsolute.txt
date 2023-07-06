@@ -1,0 +1,38 @@
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\bin\Debug\net6.0\Musica.DI.deps.json
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\bin\Debug\net6.0\Musica.DI.runtimeconfig.json
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\bin\Debug\net6.0\Musica.DI.dll
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\bin\Debug\net6.0\Musica.DI.pdb
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\bin\Debug\net6.0\Musica.Domain.dll
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\bin\Debug\net6.0\Musica.Infra.dll
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\bin\Debug\net6.0\Musica.Infra.pdb
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\bin\Debug\net6.0\Musica.Domain.pdb
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.csproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.AssemblyInfoInputs.cache
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.AssemblyInfo.cs
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.dll
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\refint\Musica.DI.dll
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.pdb
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.genruntimeconfig.cache
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\ref\Musica.DI.dll
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\bin\Debug\net6.0\Musica.DI.deps.json
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\bin\Debug\net6.0\Musica.DI.runtimeconfig.json
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\bin\Debug\net6.0\Musica.DI.dll
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\bin\Debug\net6.0\Musica.DI.pdb
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\bin\Debug\net6.0\Musica.Domain.dll
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\bin\Debug\net6.0\Musica.Infra.dll
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\bin\Debug\net6.0\Musica.Infra.pdb
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\bin\Debug\net6.0\Musica.Domain.pdb
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.csproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.AssemblyInfoInputs.cache
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.AssemblyInfo.cs
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.dll
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\refint\Musica.DI.dll
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.pdb
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\Musica.DI.genruntimeconfig.cache
+C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.DI\obj\Debug\net6.0\ref\Musica.DI.dll

@@ -1,0 +1,26 @@
+Ex.6
+INSERT INTO Gestores values ('Fabiano');
+INSERT INTO Gestores values ('Patricia');
+INSERT INTO Gestores values ('Alice');
+
+INSERT INTO Cargos values ('Auxiliar');
+INSERT INTO Cargos values ('Assistente');
+INSERT INTO Cargos values ('Analista');
+INSERT INTO Cargos values ('Analista Jr');
+INSERT INTO Cargos values ('Analista Pleno');
+INSERT INTO Cargos values ('Analista Senior');
+INSERT INTO Cargos values ('Gestor');
+INSERT INTO Cargos values ('Coordenador');
+INSERT INTO Cargos values ('Gerente');
+INSERT INTO Cargos values ('Diretor');
+
+INSERT INTO Empregados values ('Fabiano','Rua Sol, 36', '34');
+INSERT INTO Empregados values ('Patricia','Rua A, 315', '18');
+INSERT INTO Empregados values ('Alice','Rua C, 15', '20');
+INSERT INTO Empregados values ('Bernardo','Rua Z, 67', '18');
+INSERT INTO Empregados values ('Isadora','Rua B, 34', '18');
+INSERT INTO Empregados values ('Maria','Rua R, 01', '48');
+INSERT INTO Empregados values ('Jose','Rua L, 102', '50');
+INSERT INTO Empregados values ('Ivo','Rua S, 57', '48');
+INSERT INTO Empregados values ('Rafael','Rua O, 01', '49');
+INSERT INTO Empregados values ('Selma','Rua T, 24', '57');

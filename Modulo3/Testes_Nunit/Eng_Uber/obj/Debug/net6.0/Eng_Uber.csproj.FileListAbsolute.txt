@@ -1,0 +1,15 @@
+c:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Testes_Nunit\Eng_Uber\bin\Debug\net6.0\Eng_Uber.exe
+c:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Testes_Nunit\Eng_Uber\bin\Debug\net6.0\Eng_Uber.deps.json
+c:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Testes_Nunit\Eng_Uber\bin\Debug\net6.0\Eng_Uber.runtimeconfig.json
+c:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Testes_Nunit\Eng_Uber\bin\Debug\net6.0\Eng_Uber.dll
+c:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Testes_Nunit\Eng_Uber\bin\Debug\net6.0\Eng_Uber.pdb
+c:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Testes_Nunit\Eng_Uber\obj\Debug\net6.0\Eng_Uber.csproj.AssemblyReference.cache
+c:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Testes_Nunit\Eng_Uber\obj\Debug\net6.0\Eng_Uber.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Testes_Nunit\Eng_Uber\obj\Debug\net6.0\Eng_Uber.AssemblyInfoInputs.cache
+c:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Testes_Nunit\Eng_Uber\obj\Debug\net6.0\Eng_Uber.AssemblyInfo.cs
+c:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Testes_Nunit\Eng_Uber\obj\Debug\net6.0\Eng_Uber.csproj.CoreCompileInputs.cache
+c:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Testes_Nunit\Eng_Uber\obj\Debug\net6.0\Eng_Uber.dll
+c:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Testes_Nunit\Eng_Uber\obj\Debug\net6.0\refint\Eng_Uber.dll
+c:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Testes_Nunit\Eng_Uber\obj\Debug\net6.0\Eng_Uber.pdb
+c:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Testes_Nunit\Eng_Uber\obj\Debug\net6.0\Eng_Uber.genruntimeconfig.cache
+c:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\NDD--Modulo-3-Exercicios\Testes_Nunit\Eng_Uber\obj\Debug\net6.0\ref\Eng_Uber.dll

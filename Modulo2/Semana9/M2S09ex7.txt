@@ -1,0 +1,4 @@
+SELECT nomeCategoria AS 'Tipo de Conta', nome As 'Serviços' FROM categoria
+INNER JOIN contaServicos
+ON categoria.idCategoria = contaServicos.categoria_id
+WHERE categoria.nomeCategoria = 'premium';

@@ -1,0 +1,14 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Musica.Infra
+<<<<<<< HEAD
+build_property.ProjectDir = c:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.Infra\
+=======
+build_property.ProjectDir = C:\Users\fabia\OneDrive\Documentos\DevSenai\Modulo-3\NDD-Modulo-3\Nova pasta\NDD--Modulo-3-Exercicios\Musica\Musica.Infra\
+>>>>>>> bfb1cd4980a0abad2a2d2de75e6e26744dd6e270

@@ -1,0 +1,5 @@
+SELECT nomeStatus AS 'Status', COUNT(status_id) AS 'Qtde de Falhas' FROM movimento
+INNER JOIN movimentoStatus
+ON movimentoStatus.idMovimentoStatus = movimento.status_id
+WHERE movimentoStatus.nomeStatus = 'falha'
+GROUP BY movimentoStatus.nomeStatus;

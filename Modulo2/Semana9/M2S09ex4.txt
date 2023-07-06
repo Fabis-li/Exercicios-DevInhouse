@@ -1,0 +1,4 @@
+SELECT idConta AS 'Codigo Cliente', nomeCompleto AS 'Nome Cliente', FORMAT(valor,'c','pt-br') AS 'Saldo' FROM conta
+INNER JOIN cliente
+ON conta.cliente_id = cliente.idCliente 
+WHERE valor = (SELECT MAX(valor) FROM conta);

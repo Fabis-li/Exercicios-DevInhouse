@@ -1,0 +1,59 @@
+
+CREATE DATABASE Banking;
+
+/*Instrução para a criação das tabelas*/
+
+CREATE TABLE cliente(
+  id_cliente int PRIMARY KEY IDENTITY(1,1) NOT NULL,
+  nome_completo varchar(100) NOT NULL,
+  primeiro_nome varchar(30) NOT NULL,
+  sobrenome varchar(70) NOT NULL,
+  cpf int NOT NULL,
+  data_nascimento date NOT NULL, 
+);
+
+CREATE TABLE conta(
+  id_conta int PRIMARY KEY IDENTITY(1,1) NOT NULL, 
+  categoria_id int NOT NULL,
+  valor  int NOT NULL,
+  cliente_id int NOT NULL,
+  tipo_id int NOT NULL,
+  CONSTRAINT fk_cliente_conta FOREIGN KEY (cliente_id) REFERENCES cliente(id_cliente),
+  CONSTRAINT fk_conta_tipo_conta FOREIGN KEY (tipo_id) REFERENCES conta_tipo(id_tipo),
+  CONSTRAINT fk_conta_categoria_conta FOREIGN KEY (categoria_id) REFERENCES conta_categoria(id_categoria),  
+);
+
+CREATE TABLE conta_categoria (
+  id_categoria int PRIMARY KEY IDENTITY(1,1) NOT NULL,
+  nome varchar(30) NOT NULL,
+ 
+);
+
+CREATE TABLE conta_servicos (
+  id_servicos int PRIMARY KEY IDENTITY(1,1) NOT NULL,  
+  nome varchar(60) NOT NULL,
+  quantidade int,
+  taxa int NOT NULL,
+  categoria_id int NOT NULL,
+  CONSTRAINT fk_conta_categoria_conta_servico FOREIGN KEY(categoria_id) REFERENCES conta_categoria(id_categoria)
+  );
+
+CREATE TABLE conta_tipo (
+  id_tipo int PRIMARY KEY IDENTITY(1,1) NOT NULL,
+  nome varchar(40) NOT NULL,
+  
+);
+CREATE TABLE movimento (
+  id_movimento int PRIMARY KEY IDENTITY(1,1) NOT NULL,
+  tipo_id int NOT NULL,
+  conta_id int NOT NULL,
+  valor int NOT NULL,
+  status_id int NOT NULL,
+  cadastrado_em DATETIME,
+  atualizado_em DATETIME
+);
+
+CREATE TABLE movimento_status (
+  id_status int PRIMARY KEY IDENTITY(1,1) NOT NULL,
+  nome varchar(20) NOT NULL,
+);
